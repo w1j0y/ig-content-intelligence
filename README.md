@@ -1,6 +1,6 @@
 # IG Content Intelligence (Restaurant-Focused)
 
-IG Trend Radar is an open-core Instagram analysis pipeline designed primarily for restaurants and food businesses.
+IG Content Intelligence is an open-core Instagram analysis pipeline designed primarily for restaurants and food businesses.
 
 It helps answer three key questions:
 
