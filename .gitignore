@@ -1,0 +1,32 @@
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+secrets.*
+**/secrets/**
+**/*.secrets.*
+.pw_profile/
+
+# Local junk
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# Data outputs
+data/
+outputs/
+reports/
+*.json
+*.pdf
+
+# Playwright / browser state (if you have it)
+playwright/.cache/
+storage_state.json
+cookies*.json
