@@ -8,7 +8,7 @@ It helps answer three key questions:
 2. What are customers actually saying in comments?
 3. What food content is trending right now in my category?
 
-This repository contains the public, open-source components of the IG Trend Radar pipeline:
+This repository contains the public, open-source components of the IG Content Intelligence pipeline:
 - Instagram data collection
 - Basic AI-based post classification
 - Category-level trend detection
