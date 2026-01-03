@@ -17,7 +17,7 @@ The strategy, recommendations, and reporting layers are intentionally kept priva
 
 ## Applicability Beyond Restaurants
 
-Although IG Trend Radar is optimized and documented using restaurants as the primary example, the underlying pipeline is category-agnostic.
+Although IG Content Intelligence is optimized and documented using restaurants as the primary example, the underlying pipeline is category-agnostic.
 
 By changing:
 
