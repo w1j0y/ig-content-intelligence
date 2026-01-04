@@ -184,7 +184,7 @@ Access to the private modules is available via:
 - managed reporting service
 
 Contact:
-w1j0y@proton.me
+contact@rycron.com
 
 ---
 
